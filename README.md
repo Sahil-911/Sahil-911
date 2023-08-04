@@ -25,8 +25,10 @@
 ---
 <div>
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; -->
-    <img src = "https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" alt = "C" width="40" height="40"/> &nbsp;
+<!--     <img src = "https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" alt = "C" width="40" height="40"/> &nbsp; -->
   <img src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" alt = "C++" width="40" height="40"/> &nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt = "JS" width="40" height="40"/> &nbsp
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt = "Python" width="40" height="40"/> &nbsp
   <img src = "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt = "C++" width="40" height="40"/> &nbsp;
   </div>
 

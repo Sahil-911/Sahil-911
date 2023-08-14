@@ -17,7 +17,7 @@
 
 ### :man_technologist: About Me :
 ---
-- I am Sahil Lakdawala, a 2nd year ICT-CS student at DA-IICT.
+- I am Sahil Lakdawala, a 3rd year ICT-CS student at DA-IICT.
 - I am DSA proficient <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 

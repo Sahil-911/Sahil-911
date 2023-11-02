@@ -3,10 +3,10 @@ My name is Sahil Lakdawala and I am presently pursuing a Bachelor's degree in In
 
 ##### I have a keen interest in the domains of financial technology and web development. 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahil-911&show_icons=true&theme=transparent)
+![GitHub stats](https://github-readme-stats.vercel.app/api/Sahil-911&show_icons=true&theme=transparent)
 
 ## Top Languages: 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-911&show_icons=true&theme=transparent&layout=donut)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/Sahil-911&show_icons=true&theme=transparent&layout=donut)
 
 ## Tech Stack:
 

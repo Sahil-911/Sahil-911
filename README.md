@@ -1,39 +1,29 @@
-<div id="header" align="center">
-  <img src = "https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" >
-</div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/sahil-h-lakdawala-816318260/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-<div id = "counter" align = "center">
-<img src="https://komarev.com/ghpvc/?username=DhruvilKakadiya7&style=flat-square&color=blue" alt=""/>
-</div>
-<h3 align = "center">
-  hey there, I'm Sahil Lakdawala
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h3>
+### Hello there 🌌!
+My name is Sahil Lakdawala and I am presently pursuing a Bachelor's degree in Information and Communication Technology at [Dhirubhai Ambani Institute of Information and Communication Technology](https://www.daiict.ac.in).
 
+##### I have a keen interest in the domains of financial technology and web development. 
 
-### :man_technologist: About Me :
----
-- I am Sahil Lakdawala, a 3rd year ICT-CS student at DA-IICT.
-- I am DSA proficient <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahil-911&show_icons=true&theme=transparent)
 
+## Top Languages: 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-911&show_icons=true&theme=transparent&layout=donut)
 
-### :hammer_and_wrench: Languages and Tools :
----
-<div>
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; -->
-<!--     <img src = "https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" alt = "C" width="40" height="40"/> &nbsp; -->
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" alt = "C++" width="40" height="40"/> &nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt = "JS" width="40" height="40"/> &nbsp
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt = "Python" width="40" height="40"/> &nbsp
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt = "C++" width="40" height="40"/> &nbsp;
-  </div>
+## Tech Stack:
 
-### :fire: My Stats :
---- 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sahil-911&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=black)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-911&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=black)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=black)
+
+![Node JS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express JS](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Next JS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Mongo DB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=black)
+<table>
+<tr>
+<td>
+</td>
+</tr>
+</table>

@@ -1,27 +1,75 @@
-### Hello there 🌌!
-My name is Sahil Lakdawala and I am presently pursuing a Bachelor's degree in Information and Communication Technology at [Dhirubhai Ambani Institute of Information and Communication Technology](https://www.daiict.ac.in).
+# Hello there 🌌!
 
-##### I have a keen interest in the domains of financial technology and web development. 
+### “Know what’s weird? Day by day, nothing seems to change. But pretty soon, everything’s different.”
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahil-911&show_icons=true&theme=radical)](https://github.com/Sahil-911/github-readme-stats)
+[![Activity graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sahil-911&theme=transparent)](https://github.com/Sahil-911/)
 
-## Top Languages: 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Sahil-911&show_icons=true&theme=transparent&layout=donut)
+## Top Languages:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-911&show_icons=true&theme=transparent&layout=donut)
 
 ## Tech Stack:
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=black)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=black)
-![Next JS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-![Node JS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express JS](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Mongo DB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=black)
 <table>
 <tr>
-<td>
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=javascript" width="60" height="60" padding="5" alt="JavaScript" />
+        <br>JavaScript</br>
 </td>
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=typescript" width="60" height="60" padding="5" alt="TypeScript" />
+        <br>TypeScript</br>
+</td>
+<!--  <td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=webpack" width="60" height="60" padding="5" alt="Webpack" />
+        <br>Webpack</br>
+</td>
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://profilinator.rishav.dev/skills-assets/jest.svg" width="60" height="60" padding="5" alt="Jest" />
+        <br>Jest</br>
+</td> -->
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=react" width="60" height="60" padding="5" alt="React" />
+        <br>React</br>
+</td>
+<td align="center" width="96" style="border:2px solid blue">
+       <img src="https://skillicons.dev/icons?i=python" width="60" height="60" padding="5" alt="Python" />
+        <br>Python</br>
+</td>
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=materialui" width="60" height="60" padding="5" alt="React" />
+        <br>MUI</br>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="60" height="60" padding="5" alt="React" />
+        <br>Next.js</br>
+</td>
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" padding="5" alt="Node.js" />
+        <br>Node.js</br>
+</td>
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=express" width="60" height="60" padding="5" alt="Express" />
+        <br>Express</br>
+</td>
+<!-- <td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=nestjs" width="60" height="60" padding="5" alt="NestJS" />
+        <br>NestJS</br>
+</td> -->
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="60" height="60" padding="5" alt="MongoDB" />
+      <br>MongoDB</br>
+</td>
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=postgresql" width="60" height="60" padding="5" alt="PostgreSQL" />
+        <br>PostgreSQL</br>
+</td>
+<!-- <td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=firebase" width="60" height="60" padding="5" alt="PostgreSQL" />
+        <br>Firebase</br>
+</td> -->
 </tr>
 </table>

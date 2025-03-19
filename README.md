@@ -23,11 +23,11 @@
 <!--  <td align="center" width="96" style="border:2px solid blue">
         <img src="https://skillicons.dev/icons?i=webpack" width="60" height="60" padding="5" alt="Webpack" />
         <br>Webpack</br>
-</td>
-<td align="center" width="96" style="border:2px solid blue">
-        <img src="https://profilinator.rishav.dev/skills-assets/jest.svg" width="60" height="60" padding="5" alt="Jest" />
-        <br>Jest</br>
 </td> -->
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://profilinator.rishav.dev/skills-assets/tailwind.svg" width="60" height="60" padding="5" alt="Tailwind" />
+        <br>Tailwind</br>
+</td>
 <td align="center" width="96" style="border:2px solid blue">
         <img src="https://skillicons.dev/icons?i=react" width="60" height="60" padding="5" alt="React" />
         <br>React</br>
@@ -55,10 +55,10 @@
         <img src="https://skillicons.dev/icons?i=express" width="60" height="60" padding="5" alt="Express" />
         <br>Express</br>
 </td>
-<!-- <td align="center" width="96" style="border:2px solid blue">
+<td align="center" width="96" style="border:2px solid blue">
         <img src="https://skillicons.dev/icons?i=nestjs" width="60" height="60" padding="5" alt="NestJS" />
         <br>NestJS</br>
-</td> -->
+</td>
 <td align="center" width="96" style="border:2px solid blue">
         <img src="https://skillicons.dev/icons?i=mongodb" width="60" height="60" padding="5" alt="MongoDB" />
       <br>MongoDB</br>
